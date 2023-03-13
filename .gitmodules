@@ -1,0 +1,3 @@
+[submodule "kmmlib"]
+	path = kmmlib
+	url = git@github.com:Tuannomo/kmmlib.git
